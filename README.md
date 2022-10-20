@@ -9,4 +9,4 @@ Sistema para gerenciamento de noticias.
 
 
 
-alt="Mellanyee Klayn" /><br />[Mel][mellanyeeklayn] Klayn</p>|<p align="center"><img style="border-radius: 200px" width="200px" src="https://avatars.githubusercontent.com/u/97179358?v=4"
+src="https://avatars.githubusercontent.com/u/47692595?v=4"  alt="Mellanyee Klayn" /><br />[Mel][mellanyeeklayn] Klayn</p>|<p align="center"><img style="border-radius: 200px" width="200px" src="https://avatars.githubusercontent.com/u/97179358?v=4"
