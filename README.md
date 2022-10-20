@@ -7,6 +7,6 @@ Sistema para gerenciamento de noticias.
 ![](https://img.shields.io/badge/Django-blue)
 
 
-
-
-src="https://avatars.githubusercontent.com/u/47692595?v=4"  alt="Mellanyee Klayn" /><br />[Mel][mellanyeeklayn] Klayn</p>|<p align="center"><img style="border-radius: 200px" width="200px" src="https://avatars.githubusercontent.com/u/97179358?v=4"
+|Anderson()=>|Mellanyee()=>|Danilo()=>|
+|-|-|-|
+|<p align="center"><img style="border-radius: 200px" width="200px" src="https://avatars.githubusercontent.com/u/29051982?s=400&u=9075f45ce5450c21e5fbab326df6534333be3126&v=4"  alt="Anderson" /><br />[Anderson][andersonprax] Praxedes</p>|<p align="center"><img style="border-radius: 200px" width="200px" src="https://avatars.githubusercontent.com/u/47692595?v=4"  alt="Mellanyee Klayn" /><br />[Mel][mellanyeeklayn] Klayn</p>|<p align="center"><img style="border-radius: 200px" width="200px" src="https://avatars.githubusercontent.com/u/97179358?v=4" alt="Danilo Torquato" width="200px"/><br />[Danilo][DaniloTorquato] Torquato </p>|
