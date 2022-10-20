@@ -3,7 +3,7 @@ Sistema para gerenciamento de noticias.
 
 
 ![](https://img.shields.io/badge/App_Noticias-green)
-![](https://img.shields.io/badge/Python-green)
+![](https://img.shields.io/badge/Python-blue)
 ![](https://img.shields.io/badge/Django-blue)
 
 
